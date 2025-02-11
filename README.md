@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in Java. The `bug.java` file contains the buggy code, which attempts to access an array element beyond its valid index. The `bugSolution.java` file provides the corrected code.  The error is a classic example of an off-by-one error, often encountered when iterating over arrays or other collections.
